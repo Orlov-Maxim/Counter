@@ -39,7 +39,6 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="button" destination="dop-se-pEQ" id="I6C-Yi-AzJ"/>
                         <outlet property="counterValue" destination="vje-Ao-0A1" id="3HI-uA-iut"/>
                     </connections>
                 </viewController>
